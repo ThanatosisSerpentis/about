@@ -1,4 +1,4 @@
-# Casual C Code Reviewers
+# Thanatosis Serpentis
 
 We founded us to to read, review and learn code. We formed us after the inspiring talk [Lets review code together](https://media.ccc.de/v/rc3-2021-cwtv-228-lets-review-code-toget) by [khaleesicodes](https://github.com/khaleesicodes) and [stoeckmann](https://github.com/stoeckmann).
 
