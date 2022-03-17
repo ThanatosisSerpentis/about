@@ -9,6 +9,7 @@ The group is comprised of both beginners and experts. Our goals are to learn mor
 You are interested, have questions or want join us? Lets talk in our [discussions](https://github.com/ThanatosisSerpentis/about/discussions) section!
 
 ## Current and past code reviews
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 - [csv](https://github.com/python/cpython/blob/main/Lib/csv.py)
 
 ## Other Codereview groups
