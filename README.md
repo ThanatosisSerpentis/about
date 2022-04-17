@@ -17,7 +17,7 @@ You are interested, have questions or want join us? Lets talk in our [discussion
 - C3H2-CTF ([GitHub](https://github.com/c3h2-ctf/),
   [Twitter](https://twitter.com/c3h2_ctf)), reviewing popular tools
 - Casual C Code Reviewers ([GitHub](https://github.com/CasualCCodeReviewers/about)),
-  reviewing Python code
+  reviewing C code
 - Lets Read Java ([GitHub](https://github.com/LetsReadJava/About)), reviewing Java code
 - TheBorrowCheckers ([GitHub](https://github.com/TheBorrowCheckers/about),
   [Twitter](https://twitter.com/sagi_schwarz)), reviewing Rust code
